@@ -1,0 +1,74 @@
+1. What type would you choose for the following “numbers”?
+A person’s telephone number - string
+A person’s height - float or double
+A person’s age - int
+A person’s gender (Male, Female, Prefer Not To Answer) - string
+A person’s salary - decimal
+A book’s ISBN - string
+A book’s price - decimal
+A book’s shipping weight - double or float
+A country’s population - long
+The number of stars in the universe - int
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business) - int
+
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+              Value type                                  reference type
+  --------------------------------               ----------------------------------            
+    store the data directly.                      stores the reference of the data.
+    Example: int, struct, enums                    Example: class, interface
+    
+    
+            Boxing                                          Unboxing
+  --------------------------------               ----------------------------------            
+    Converting value type to                       Converting reference type to 
+    reference type.                                       value type
+    Example: int - object                           Example: string - int
+    
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+Managed resources is the memory that is handled by garbage collector and managed during the runtime by CLR (Common Language Runtime).
+Unmanaged resources is not handled during the runtime. 
+
+4. Whats the purpose of Garbage Collector in .NET?
+It manages the allocation of memory and releasing the space which no longer used. Managed by heap.
+Through this performance and memory optimization is improved.
+
+
+
+1. What happens when you divide an int variable by 0?
+It throws an exception of "DivideByZeroException"
+
+2. What happens when you divide a double variable by 0?
+It returns infinity or -infinity
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+It throws an exception "OverflowException"
+
+4. What is the difference between x = y++; and x = ++y;?
+y++ is post increment. i.e, it increments the value after assigning the current value to x
+++y is pre increment. i.e, it increments before assigning the value.
+
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+break: will exit the loop 
+continue: it skips the current execution and continues with next step/loop
+return: returns the result to the function from which it is called
+ 
+6. What are the three parts of a for statement and which of them are required?
+Initialization, condition, increment/decrement condition to iterate
+
+7. What is the difference between the = and == operators?
+= is an assignment operator
+== is a comparision operator to check the equality condition
+
+8. Does the following statement compile? for ( ; true; ) ;
+Yes it will compile. It is a condition for an infinite loop.
+
+9. What does the underscore _ represent in a switch expression?
+It is discard pattern in switch to handle when none of the cases match or null, orelse it raises an exception.
+
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+It should be an IEnumerable interface
