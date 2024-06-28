@@ -1,0 +1,15 @@
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/bin/Debug/net8.0/Assignment4
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/bin/Debug/net8.0/Assignment4.deps.json
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/bin/Debug/net8.0/Assignment4.runtimeconfig.json
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/bin/Debug/net8.0/Assignment4.dll
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/bin/Debug/net8.0/Assignment4.pdb
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.AssemblyInfoInputs.cache
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.AssemblyInfo.cs
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.csproj.CoreCompileInputs.cache
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.sourcelink.json
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.dll
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/refint/Assignment4.dll
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.pdb
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/Assignment4.genruntimeconfig.cache
+/Users/sarikamangalpally/Documents/antra/CSharp/Assignment4/obj/Debug/net8.0/ref/Assignment4.dll
